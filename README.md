@@ -7,4 +7,4 @@ to do some data wrangling.¶
 I have used the various python libraries such as Pandas for EDA and data cleaning, and showcasing the various data using Matplotlib, Matrix Seaborn and Plotly Express 
 for data visualization.
 
-I have learned a lot during this project, and will continue to fine-tune the project as well as work on other projects in the near future.
+I have learned a lot during this project, and will continue to fine-tune this project as well as work on other projects in the near future.
